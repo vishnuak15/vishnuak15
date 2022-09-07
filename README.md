@@ -1,5 +1,7 @@
 ### Hi Guys thanks for visiting my github profile
 
+follow me on twitter 
+
 - 👋 Hi, I’m Vishnu Mohandas @vishnuak15
 - 👀 I’m continously learning new things to improve myseif
 - 🌱 I’m currently learning django and python for web development
