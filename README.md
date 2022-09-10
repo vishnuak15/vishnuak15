@@ -19,6 +19,7 @@ follow me on twitter
 <img alt="Postman" src="https://img.shields.io/badge/Postman-%23e4626b.svg?style=for-the-badge&logo=Postman&logoColor=orange&color=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=white"/>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=319DA0&color=white"/>
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-f2ca61.svg?style=for-the-badge&logo=bootstrap&logoColor=darkviolet&color=white"/>
 </p>
 
 <!---
