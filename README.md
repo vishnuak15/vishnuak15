@@ -22,6 +22,7 @@ follow me on twitter
 <img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=319DA0&color=white"/>
 <img alt="GIT" src="https://img.shields.io/badge/git-f2ca61.svg?style=for-the-badge&logo=git&logoColor=orange&color=white"/>
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-f2ca61.svg?style=for-the-badge&logo=bootstrap&logoColor=darkviolet&color=white"/>
+<img alt="heroku" src="https://img.shields.io/badge/heroku-f2ca61.svg?style=for-the-badge&logo=heroku&logoColor=darkviolet&color=white"/>
 </p>
 
 <!---
