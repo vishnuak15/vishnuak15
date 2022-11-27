@@ -1,18 +1,12 @@
 ### Hi Guys thanks for visiting my github profile
-
-follow me on twitter and LinkedIn
-<a href="https://twitter.com/Vishnu_m115">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vishnuak15/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 - 👋 Hi, I’m Vishnu Mohandas @vishnuak15
 - 👀 I’m continously learning new things to improve myseif
 - 🌱 I’m currently learning django and python for web development
 - 💞️ I’m looking to collaborate on projects related to django/flask
 - 📫 You can connect with me on [Email](https://www.linkedin.com/in/debbiedann).
+
+
+
 
 ### Skills
 <p align="center">
@@ -29,7 +23,17 @@ follow me on twitter and LinkedIn
 <img alt="GIT" src="https://img.shields.io/badge/git-f2ca61.svg?style=for-the-badge&logo=git&logoColor=orange&color=white"/>
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-f2ca61.svg?style=for-the-badge&logo=bootstrap&logoColor=darkviolet&color=white"/>
 <img alt="heroku" src="https://img.shields.io/badge/heroku-f2ca61.svg?style=for-the-badge&logo=heroku&logoColor=darkviolet&color=white"/>
+<img alt="Jira" src="https://img.shields.io/badge/jira-f2ca61.svg?style=for-the-badge&logo=jira&logoColor=blue&color=white"/>
 </p>
+
+
+### Follow me on
+<a href="https://twitter.com/Vishnu_m115">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vishnuak15/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!---
 vishnuak15/vishnuak15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
