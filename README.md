@@ -24,6 +24,7 @@
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-f2ca61.svg?style=for-the-badge&logo=bootstrap&logoColor=darkviolet&color=white"/>
 <img alt="heroku" src="https://img.shields.io/badge/heroku-f2ca61.svg?style=for-the-badge&logo=heroku&logoColor=darkviolet&color=white"/>
 <img alt="Jira" src="https://img.shields.io/badge/jira-f2ca61.svg?style=for-the-badge&logo=jira&logoColor=blue&color=white"/>
+<img alt="flask" src="https://img.shields.io/badge/flask-f2ca61.svg?style=for-the-badge&logo=flask&logoColor=blue&color=white"/>
 </p>
 
 
