@@ -27,13 +27,6 @@
 </p>
 
 
-### Follow me on
-<a href="https://twitter.com/Vishnu_m115">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vishnuak15/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 <!---
 vishnuak15/vishnuak15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
