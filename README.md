@@ -3,7 +3,7 @@
 - 👀 I’m continously learning new things to improve myseif
 - 🌱 I’m currently learning django and python for web development
 - 💞️ I’m looking to collaborate on projects related to django/flask
-- 📫 You can connect with me on [Email](https://www.linkedin.com/in/debbiedann).
+- 📫 You can connect with me on [Email](vishnuak15@gmail.com).
 
 
 
