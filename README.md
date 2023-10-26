@@ -1,9 +1,17 @@
+
+
+
 ### Hi Guys thanks for visiting my github profile
+
 - 👋 Hi, I’m Vishnu Mohandas @vishnuak15
 - 👀 I’m continously learning new things to improve myseif
 - 🌱 I’m currently learning django and python for web development
 - 💞️ I’m looking to collaborate on projects related to django/flask
 - 📫 You can connect with me on [Email](vishnuak15@gmail.com).
+
+
+
+  
 
 
 
@@ -25,6 +33,12 @@
 <img alt="heroku" src="https://img.shields.io/badge/heroku-f2ca61.svg?style=for-the-badge&logo=heroku&logoColor=darkviolet&color=white"/>
 <img alt="Jira" src="https://img.shields.io/badge/jira-f2ca61.svg?style=for-the-badge&logo=jira&logoColor=blue&color=white"/>
 </p>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuak15&layout=compact" />
+</div>
+
 
 
 
