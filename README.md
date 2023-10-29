@@ -7,7 +7,8 @@
 - 👀 I’m continously learning new things to improve myseif
 - 🌱 I’m currently learning django and python for web development
 - 💞️ I’m looking to collaborate on projects related to django/flask
-- 📫 You can connect with me on my <a href="vishnuak15@gmail.com">Email</a>
+- You can contact me via: [Email](mailto:vishnuak15@gmail.com).
+
 
 
 
