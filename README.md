@@ -7,6 +7,7 @@
 - 👀 I’m continously learning new things to improve myseif
 - 🌱 I’m currently learning django and python for web development
 - 💞️ I’m looking to collaborate on projects related to django/flask
+- click here to view my online [Resume](https://vishnuak15.github.io/myresume/) 
 - You can contact me via: [Email](mailto:vishnuak15@gmail.com).
 
 
